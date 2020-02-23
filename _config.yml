@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: import <dynamic_instantiation>;
+title: dynamic_instantiation
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
   C++ 程序员，亦手撸 C#。业余时间喜欢研究 C++ 标准提案，热衷于各种新技术，也折腾单片机。
