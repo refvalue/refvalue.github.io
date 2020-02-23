@@ -28,8 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  refvalue
 
 # Build settings
-# theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
