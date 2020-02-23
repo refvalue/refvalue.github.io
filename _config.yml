@@ -23,9 +23,9 @@ title: import <dynamic_instantiation>;
 description: >- # this means to ignore newlines until "baseurl:"
   C++ 程序员，亦手撸 C#。业余时间喜欢研究 C++ 标准提案，热衷于各种新技术，也折腾单片机。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  refval
+github_username:  refvalue
 
 # Build settings
 theme: minima
