@@ -4,15 +4,15 @@ title:  "Welcome to Jekyll!"
 date:   2020-02-23 16:23:42 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+这是我的第一篇博客，用于网站运行测试。以后，我将在这里更新自己对新技术的看法、工作中的技巧和一些坑的解决方案等。
 
-Jekyll requires blog post files to be named according to the following format:
+这个博客使用 Jekyll 引擎搭建。每篇博客的文件名必须遵循如下的格式：
 
-`YEAR-MONTH-DAY-title.MARKUP`
+`YEAR-MONTH-DAY-title.markdown`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+`YEAR` 必须是四位数年份，`MONTH` 和 `DAY` 必须是两位数。
 
-Jekyll also offers powerful support for code snippets:
+Jekyll 引擎支持高级代码着色：
 
 {% highlight ruby %}
 def print_hi(name)
@@ -22,7 +22,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+相关教程可参考 [Jekyll docs][jekyll-docs]。 
+
+BUG 提交： [Jekyll’s GitHub repo][jekyll-gh]。
+
+社区求助：[Jekyll Talk][jekyll-talk]。
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
