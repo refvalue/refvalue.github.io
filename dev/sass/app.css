@@ -152,10 +152,10 @@ a {
     margin-top: 8px; }
 
 .banner-theme-default {
-  background: -webkit-linear-gradient(0deg, #bcbcbc, #bcbcbc);
-  background: -o-linear-gradient(0deg, #bcbcbc, #bcbcbc);
-  background: -moz-linear-gradient(0deg, #bcbcbc, #bcbcbc);
-  background: linear-gradient(100deg, #bcbcbc, #bcbcbc); }
+  background: -webkit-linear-gradient(0deg, #3CD5FF, #007AFF);
+  background: -o-linear-gradient(0deg, #3CD5FF, #007AFF);
+  background: -moz-linear-gradient(0deg, #3CD5FF, #007AFF);
+  background: linear-gradient(100deg, #3CD5FF, #007AFF); }
 
 .banner-theme-pink {
   background: -webkit-linear-gradient(0deg, #FFCE69, #FA709A);
@@ -493,7 +493,7 @@ a {
   margin: 0;
   color: #fff;
   overflow: hidden;
-  background-color: #bcbcbc;
+  background-color: #4285f4;
   z-index: 0; }
   .post-header h1 {
     font-size: 32px;
