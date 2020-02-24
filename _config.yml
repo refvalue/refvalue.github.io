@@ -29,7 +29,8 @@ github_username:  refvalue
 
 # Build settings
 # theme: hacker
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+remote_theme: kaeyleo/jekyll-theme-H2O
 plugins:
   - jekyll-feed
   
